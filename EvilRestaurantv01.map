@@ -3477,6 +3477,7 @@
 {
 "classname" "monster_ogre"
 "origin" "240 -960 72"
+"spawnflags" "1"
 }
 // entity 41
 {
@@ -3496,6 +3497,7 @@
 "classname" "monster_army"
 "origin" "776 -912 72"
 "angle" "180"
+"spawnflags" "1"
 }
 // entity 43
 {
@@ -3515,12 +3517,14 @@
 "classname" "monster_army"
 "origin" "776 -760 72"
 "angle" "180"
+"spawnflags" "1"
 }
 // entity 45
 {
 "classname" "monster_army"
 "origin" "776 -1088 72"
 "angle" "180"
+"spawnflags" "1"
 }
 // entity 46
 {
@@ -3719,7 +3723,7 @@
 // entity 70
 {
 "classname" "info_teleport_destination"
-"origin" "576 -384 -176"
+"origin" "580 -384 -176"
 }
 // entity 71
 {
@@ -3876,4 +3880,24 @@
 ( 2664 -336 -464 ) ( 2664 -336 -465 ) ( 2665 -336 -464 ) 128_honey_1 [ 1 0 0 0 ] [ 0 1.9600538592723536e-15 1 -32 ] 0 1 1
 ( 2664 -497 -464 ) ( 2664 -496 -464 ) ( 2664 -497 -465 ) 128_honey_1 [ 0 -1.9600538592723536e-15 -1 32 ] [ 0 -1 1.9600538592723536e-15 87 ] 90 1 1
 }
+}
+// entity 73
+{
+"classname" "item_rockets"
+"origin" "0 -640 16"
+}
+// entity 74
+{
+"classname" "item_shells"
+"origin" "164 -908 16"
+}
+// entity 75
+{
+"classname" "item_shells"
+"origin" "292 -908 16"
+}
+// entity 76
+{
+"classname" "item_health"
+"origin" "224 -1048 16"
 }
