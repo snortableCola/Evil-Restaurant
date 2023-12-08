@@ -2425,60 +2425,43 @@
 }
 // entity 10
 {
-"classname" "monster_ogre"
-"origin" "-244 -200 40"
-"angle" "60"
-}
-// entity 11
-{
 "classname" "monster_hell_knight"
 "origin" "112 64 168"
 "angle" "195"
 }
-// entity 12
+// entity 11
 {
 "classname" "item_shells"
 "origin" "-160 -240 16"
 }
-// entity 13
+// entity 12
 {
 "classname" "item_shells"
 "origin" "-264 -136 16"
 }
-// entity 14
+// entity 13
 {
 "classname" "weapon_nailgun"
 "origin" "-164 32 144"
 "spawnflags" "0"
 }
-// entity 15
+// entity 14
 {
 "classname" "item_spikes"
 "origin" "196 -100 144"
 }
+// entity 15
+{
+"classname" "monster_enforcer"
+"origin" "-296 -192 40"
+"angle" "0"
+}
 // entity 16
-{
-"classname" "weapon_grenadelauncher"
-"origin" "320 32 16"
-}
-// entity 17
-{
-"classname" "monster_enforcer"
-"origin" "224 224 40"
-"angle" "180"
-}
-// entity 18
-{
-"classname" "monster_enforcer"
-"origin" "224 -160 40"
-"angle" "180"
-}
-// entity 19
 {
 "classname" "item_key1"
 "origin" "208 -304 168"
 }
-// entity 20
+// entity 17
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -3133,7 +3116,7 @@
 ( -400 400 160 ) ( -400 384 152 ) ( -400 384 160 ) 16_honey_1 [ 0 -1.0000000000000002 0 0 ] [ 0 0 -1.0000000000000002 0 ] 0 1 1
 }
 }
-// entity 21
+// entity 18
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -3557,22 +3540,22 @@
 ( 3464 -136 -280 ) ( 3464 -136 -279 ) ( 3464 -135 -280 ) 128_cyan_2 [ 0 1 0 0 ] [ 0 0 -1 32 ] 0 1 1
 }
 }
-// entity 22
+// entity 19
 {
 "classname" "item_health"
 "origin" "192 296 144"
 }
-// entity 23
+// entity 20
 {
 "classname" "item_health"
 "origin" "208 -104 16"
 }
-// entity 24
+// entity 21
 {
 "classname" "item_health"
 "origin" "208 144 16"
 }
-// entity 25
+// entity 22
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -3632,7 +3615,7 @@
 ( -280 -8 19 ) ( -280 -8 19.750000000000007 ) ( -280 -7.2500000000027285 19 ) 128_blue_1 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 26
+// entity 23
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -3692,7 +3675,7 @@
 ( -329 -9 19 ) ( -329 -9 19.750000000000007 ) ( -329 -8.250000000002728 19 ) 128_blue_1 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 27
+// entity 24
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -3752,7 +3735,7 @@
 ( -189 -40 19 ) ( -189 -40 19.750000000000007 ) ( -189 -39.25000000000273 19 ) 128_blue_1 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 28
+// entity 25
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -3812,7 +3795,7 @@
 ( -70 -151 19 ) ( -70 -151 19.750000000000007 ) ( -70 -150.25000000000273 19 ) 128_blue_1 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 29
+// entity 26
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -3872,7 +3855,7 @@
 ( -33 -228 19 ) ( -33 -228 19.750000000000007 ) ( -33 -227.25000000000273 19 ) 128_blue_1 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 30
+// entity 27
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -3932,57 +3915,57 @@
 ( -33 -287 19 ) ( -33 -287 19.750000000000007 ) ( -33 -286.25000000000273 19 ) 128_blue_1 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 31
+// entity 28
 {
 "classname" "weapon_supershotgun"
 "origin" "240 -848 48"
 }
-// entity 32
+// entity 29
 {
 "classname" "weapon_supernailgun"
 "origin" "256 -568 -192"
 }
-// entity 33
+// entity 30
 {
 "classname" "item_key2"
 "origin" "3388 -384 -513"
 }
-// entity 34
+// entity 31
 {
 "classname" "monster_hell_knight"
 "origin" "2632 -824 -432"
 "angle" "180"
 }
-// entity 35
+// entity 32
 {
 "classname" "monster_hell_knight"
 "origin" "2632 56 -448"
 "angle" "195"
 }
-// entity 36
+// entity 33
 {
 "classname" "item_shells"
 "origin" "-416 224 16"
 }
-// entity 37
+// entity 34
 {
 "classname" "item_shells"
 "origin" "-304 224 16"
 }
-// entity 38
+// entity 35
 {
 "classname" "monster_ogre"
 "origin" "240 -960 72"
 "spawnflags" "1"
 }
-// entity 39
+// entity 36
 {
 "classname" "monster_army"
 "origin" "776 -912 72"
 "angle" "180"
 "spawnflags" "1"
 }
-// entity 40
+// entity 37
 {
 "classname" "monster_army"
 "origin" "776 -760 72"
@@ -3990,21 +3973,21 @@
 "spawnflags" "1"
 "targetname" "guy1"
 }
-// entity 41
+// entity 38
 {
 "classname" "monster_army"
 "origin" "776 -1088 72"
 "angle" "180"
 "spawnflags" "1"
 }
-// entity 42
+// entity 39
 {
 "classname" "monster_wizard"
 "origin" "144 -496 368"
 "angle" "270"
 "target" "wizct"
 }
-// entity 43
+// entity 40
 {
 "classname" "func_door"
 "angle" "90"
@@ -4019,7 +4002,7 @@
 ( 1800 -376 -440 ) ( 1800 -600 -536 ) ( 1800 -600 -440 ) 32_blood_3 [ 0 -1.0000000000000002 0 -8 ] [ 0 0 -1.0000000000000002 -8 ] 0 1 1
 }
 }
-// entity 44
+// entity 41
 {
 "classname" "func_train"
 "target" "path1"
@@ -4044,21 +4027,21 @@
 ( 314 -536 -112 ) ( 322 -570 -112 ) ( 322 -570 16 ) 128_brown_3 [ -0.2290393337255473 0.973417168333576 0 34.999847 ] [ 0 0 -1 80 ] 0 1 1
 }
 }
-// entity 45
+// entity 42
 {
 "classname" "path_corner"
 "origin" "190 -636 -208"
 "targetname" "path1"
 "target" "path2"
 }
-// entity 46
+// entity 43
 {
 "classname" "path_corner"
 "origin" "190 -636 -128"
 "target" "path1"
 "targetname" "path2"
 }
-// entity 47
+// entity 44
 {
 "classname" "trigger_once"
 "target" "machineplat"
@@ -4072,7 +4055,7 @@
 ( 280 -504 -184 ) ( 280 -504 -183 ) ( 280 -503 -184 ) trigger [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 48
+// entity 45
 {
 "classname" "trigger_secret"
 "target" "machineplat"
@@ -4086,107 +4069,107 @@
 ( 280 -504 -184 ) ( 280 -504 -183 ) ( 280 -503 -184 ) trigger [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 49
+// entity 46
 {
 "classname" "info_teleport_destination"
 "origin" "472 -704 72"
 "angle" "180"
 "targetname" "tp1"
 }
-// entity 50
+// entity 47
 {
 "classname" "info_teleport_destination"
 "origin" "472 -904 72"
 "angle" "180"
 "targetname" "tp2"
 }
-// entity 51
+// entity 48
 {
 "classname" "info_teleport_destination"
 "origin" "472 -1104 72"
 "angle" "180"
 "targetname" "tp3"
 }
-// entity 52
+// entity 49
 {
 "classname" "info_teleport_destination"
 "origin" "336 -664 128"
 "angle" "270"
 "targetname" "wizloc2"
 }
-// entity 53
+// entity 50
 {
 "classname" "info_teleport_destination"
 "origin" "80 -648 128"
 "angle" "270"
 "targetname" "wizloc1"
 }
-// entity 54
+// entity 51
 {
 "classname" "monster_wizard"
 "origin" "-8 -496 368"
 "angle" "270"
 "target" "wizct"
 }
-// entity 55
+// entity 52
 {
 "classname" "monster_hell_knight"
 "origin" "444 -1284 -184"
 "angle" "90"
 "spawnflags" "1"
 }
-// entity 56
+// entity 53
 {
 "classname" "item_spikes"
 "origin" "-20 -656 -208"
 }
-// entity 57
+// entity 54
 {
 "classname" "item_spikes"
 "origin" "-20 -916 -208"
 }
-// entity 58
+// entity 55
 {
 "classname" "item_shells"
 "origin" "472 -924 -208"
 }
-// entity 59
+// entity 56
 {
 "classname" "item_shells"
 "origin" "472 -656 -208"
 }
-// entity 60
+// entity 57
 {
 "classname" "item_health"
 "origin" "468 -1296 -208"
 }
-// entity 61
+// entity 58
 {
 "classname" "item_health"
 "origin" "384 -1296 -208"
 }
-// entity 62
+// entity 59
 {
 "classname" "monster_knight"
 "origin" "400 -624 -184"
 "angle" "180"
 "spawnflags" "1"
 }
-// entity 63
+// entity 60
 {
 "classname" "monster_knight"
 "origin" "400 -752 -184"
 "angle" "180"
 "spawnflags" "1"
 }
-// entity 64
+// entity 61
 {
 "classname" "monster_enforcer"
 "origin" "112 -592 -184"
 "angle" "255"
 "spawnflags" "1"
 }
-// entity 65
+// entity 62
 {
 "classname" "trigger_once"
 "target" "dmnrelay"
@@ -4201,13 +4184,13 @@
 ( 1216 -384 -336 ) ( 1216 -384 -335 ) ( 1216 -383 -336 ) trigger [ 0 1 0 0 ] [ 0 0 -1 16 ] 0 1 1
 }
 }
-// entity 66
+// entity 63
 {
 "classname" "info_teleport_destination"
 "origin" "588 -384 -176"
 "targetname" "dmndest"
 }
-// entity 67
+// entity 64
 {
 "classname" "func_door"
 "spawnflags" "8"
@@ -4285,7 +4268,7 @@
 ( 2664 -545 -544 ) ( 2664 -544 -544 ) ( 2664 -545 -545 ) 128_honey_1 [ 0 -1.9600538592723536e-15 -1 -48 ] [ 0 -1 1.9600538592723536e-15 39 ] 90 1 1
 }
 }
-// entity 68
+// entity 65
 {
 "classname" "func_door"
 "angle" "90"
@@ -4363,32 +4346,32 @@
 ( 2664 -497 -464 ) ( 2664 -496 -464 ) ( 2664 -497 -465 ) 128_honey_1 [ 0 -1.9600538592723536e-15 -1 32 ] [ 0 -1 1.9600538592723536e-15 87 ] 90 1 1
 }
 }
-// entity 69
+// entity 66
 {
 "classname" "item_rockets"
 "origin" "0 -640 16"
 }
-// entity 70
+// entity 67
 {
 "classname" "item_shells"
 "origin" "164 -908 16"
 }
-// entity 71
+// entity 68
 {
 "classname" "item_shells"
 "origin" "292 -908 16"
 }
-// entity 72
+// entity 69
 {
 "classname" "item_health"
 "origin" "224 -1048 16"
 }
-// entity 73
+// entity 70
 {
 "classname" "monster_demon1"
 "origin" "992 96 -312"
 }
-// entity 74
+// entity 71
 {
 "classname" "trigger_teleport"
 "targetname" "guytp"
@@ -4403,14 +4386,14 @@
 ( 784 -752 80 ) ( 784 -752 81 ) ( 784 -751 80 ) __TB_empty [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 75
+// entity 72
 {
 "classname" "trigger_relay"
 "origin" "808 -864 112"
 "target" "guytp"
 "targetname" "guysrelay"
 }
-// entity 76
+// entity 73
 {
 "classname" "trigger_teleport"
 "targetname" "guytp"
@@ -4425,7 +4408,7 @@
 ( 784 -912 80 ) ( 784 -912 81 ) ( 784 -911 80 ) __TB_empty [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 77
+// entity 74
 {
 "classname" "trigger_teleport"
 "targetname" "guytp"
@@ -4440,7 +4423,7 @@
 ( 784 -1072 80 ) ( 784 -1072 81 ) ( 784 -1071 80 ) __TB_empty [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 78
+// entity 75
 {
 "classname" "trigger_once"
 "targetname" ""
@@ -4455,21 +4438,21 @@
 ( 264 -824 144 ) ( 264 -824 145 ) ( 264 -823 144 ) trigger [ 0 1 0 -24 ] [ 0 0 -1 48 ] 0 1 1
 }
 }
-// entity 79
+// entity 76
 {
 "classname" "trigger_relay"
 "origin" "64 -648 400"
 "target" "wiztele"
 "targetname" "kitchenrelay"
 }
-// entity 80
+// entity 77
 {
 "classname" "trigger_counter"
 "origin" "64 -608 400"
 "targetname" "wizct"
 "target" "StairDoor"
 }
-// entity 81
+// entity 78
 {
 "classname" "trigger_teleport"
 "targetname" "wiztele"
@@ -4484,7 +4467,7 @@
 ( -8 -488 360 ) ( -8 -488 361 ) ( -8 -487 360 ) __TB_empty [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 82
+// entity 79
 {
 "classname" "trigger_teleport"
 "targetname" "wiztele"
@@ -4499,7 +4482,7 @@
 ( 144 -480 360 ) ( 144 -480 361 ) ( 144 -479 360 ) __TB_empty [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 83
+// entity 80
 {
 "classname" "trigger_once"
 "target" "kitchenrelay"
@@ -4514,14 +4497,14 @@
 ( -16 -1040 112 ) ( -16 -1040 113 ) ( -16 -1039 112 ) trigger [ 0 1 0 0 ] [ 0 0 -1 16 ] 0 1 1
 }
 }
-// entity 84
+// entity 81
 {
 "classname" "trigger_relay"
 "origin" "1024 0 -264"
 "targetname" "dmnrelay"
 "target" "dmntp"
 }
-// entity 85
+// entity 82
 {
 "classname" "trigger_teleport"
 "targetname" "dmntp"
@@ -4536,27 +4519,27 @@
 ( 1016 104 -320 ) ( 1016 104 -319 ) ( 1016 105 -320 ) __TB_empty [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 86
+// entity 83
 {
 "classname" "item_armor1"
 "origin" "1632 -296 -504"
 }
-// entity 87
+// entity 84
 {
 "classname" "item_armor1"
 "origin" "1632 -472 -504"
 }
-// entity 88
+// entity 85
 {
 "classname" "item_rockets"
 "origin" "1824 -616 -537"
 }
-// entity 89
+// entity 86
 {
 "classname" "item_rockets"
 "origin" "1816 -184 -537"
 }
-// entity 90
+// entity 87
 {
 "classname" "trigger_changelevel"
 "spawnflags" "0"
@@ -4580,13 +4563,13 @@
 ( 2628 -336 -476 ) ( 2628 -208 -480 ) ( 2628 -336 -480 ) *waterskip [ 0 1 0 0 ] [ 0 0 -1 7 ] 0 1 1
 }
 }
-// entity 91
+// entity 88
 {
 "classname" "info_intermission"
 "origin" "-423 -308 280"
 "mangle" "28 41 0"
 }
-// entity 92
+// entity 89
 {
 "classname" "trigger_once"
 "target" "portalrelay"
@@ -4600,7 +4583,7 @@
 ( 2680 -784 -456 ) ( 2680 -784 -455 ) ( 2680 -783 -456 ) trigger [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 93
+// entity 90
 {
 "classname" "func_button"
 // brush 0
@@ -4613,7 +4596,7 @@
 ( 216 -888 192 ) ( 216 -904 176 ) ( 216 -904 192 ) 128_brown_3 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 94
+// entity 91
 {
 "classname" "trigger_push"
 "angle" "0"
@@ -4627,7 +4610,7 @@
 ( 1824 -872 192 ) ( 1824 -871 192 ) ( 1824 -872 191 ) trigger [ 5.053215498074303e-16 0 -1 -40 ] [ 0 -1 0 0 ] 0 1 1
 }
 }
-// entity 95
+// entity 92
 {
 "classname" "trigger_push"
 "angle" "90"
@@ -4641,24 +4624,24 @@
 ( 1872 -906.2768775266122 195.21539030917347 ) ( 1872 -905.4108521228277 194.71539030917347 ) ( 1872 -906.7768775266122 194.34936490538894 ) trigger [ 0 -0.4999999999999999 -0.8660254037844387 -4.0769653 ] [ 0 -0.8660254037844387 0.49999999999999983 21.533508 ] 120 1 1
 }
 }
-// entity 96
+// entity 93
 {
 "classname" "item_rockets"
 "origin" "232 -288 -208"
 }
-// entity 97
+// entity 94
 {
 "classname" "item_armor1"
 "origin" "8 -272 -208"
 }
-// entity 98
+// entity 95
 {
 "classname" "monster_wizard"
 "origin" "2320 276 -80"
 "angle" "270"
 "target" "wizct"
 }
-// entity 99
+// entity 96
 {
 "classname" "trigger_teleport"
 "targetname" "wiztele2"
@@ -4673,14 +4656,14 @@
 ( 2320 292 -88 ) ( 2320 292 -87 ) ( 2320 293 -88 ) __TB_empty [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 100
+// entity 97
 {
 "classname" "monster_wizard"
 "origin" "2168 276 -80"
 "angle" "270"
 "target" "wizct"
 }
-// entity 101
+// entity 98
 {
 "classname" "trigger_teleport"
 "targetname" "wiztele2"
@@ -4695,6 +4678,26 @@
 ( 2168 284 -88 ) ( 2168 284 -87 ) ( 2168 285 -88 ) __TB_empty [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
+// entity 99
+{
+"classname" "trigger_relay"
+"origin" "2240 124 -48"
+"target" "wiztele2"
+"targetname" "portalrelay"
+}
+// entity 100
+{
+"classname" "info_teleport_destination"
+"origin" "1984 -380 -380"
+"targetname" "bydoor"
+}
+// entity 101
+{
+"classname" "info_teleport_destination"
+"origin" "3240 -384 -380"
+"angle" "180"
+"targetname" "bykey"
+}
 // entity 102
 {
 "classname" "trigger_relay"
@@ -4704,32 +4707,12 @@
 }
 // entity 103
 {
-"classname" "info_teleport_destination"
-"origin" "1984 -380 -380"
-"targetname" "bydoor"
+"classname" "trigger_relay"
+"origin" "2240 124 -48"
+"target" "wiztele2"
+"targetname" "portalrelay"
 }
 // entity 104
-{
-"classname" "info_teleport_destination"
-"origin" "3240 -384 -380"
-"angle" "180"
-"targetname" "bykey"
-}
-// entity 105
-{
-"classname" "trigger_relay"
-"origin" "2240 124 -48"
-"target" "wiztele2"
-"targetname" "portalrelay"
-}
-// entity 106
-{
-"classname" "trigger_relay"
-"origin" "2240 124 -48"
-"target" "wiztele2"
-"targetname" "portalrelay"
-}
-// entity 107
 {
 "classname" "trigger_push"
 "angle" "-1"
@@ -4742,4 +4725,23 @@
 ( 600 -880 56 ) ( 601 -880 56 ) ( 600 -880 57 ) trigger [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
 ( 592 -872 56 ) ( 592 -872 57 ) ( 592 -871 56 ) trigger [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
+}
+// entity 105
+{
+"classname" "trigger_once"
+// brush 0
+{
+( 3312 -304 -424 ) ( 3312 -288 -520 ) ( 3312 -288 -424 ) trigger [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 3456 -480 -424 ) ( 3312 -480 -520 ) ( 3312 -480 -424 ) trigger [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 3456 -288 -520 ) ( 3312 -304 -520 ) ( 3456 -304 -520 ) trigger [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 3456 -288 -424 ) ( 3312 -304 -424 ) ( 3312 -288 -424 ) trigger [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 3456 -288 -424 ) ( 3312 -288 -520 ) ( 3456 -288 -520 ) trigger [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 3456 -288 -424 ) ( 3456 -304 -520 ) ( 3456 -304 -424 ) trigger [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+}
+}
+// entity 106
+{
+"classname" "monster_knight"
+"origin" "360 32 40"
+"angle" "180"
 }
