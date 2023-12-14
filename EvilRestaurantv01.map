@@ -5964,3 +5964,13 @@
 "target" "goldcounter"
 "_tb_group" "19"
 }
+// entity 130
+{
+"classname" "item_health"
+"origin" "1744 -304 -537"
+}
+// entity 131
+{
+"classname" "item_health"
+"origin" "1744 -496 -537"
+}
