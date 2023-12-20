@@ -4,7 +4,7 @@
 {
 "mapversion" "220"
 "classname" "worldspawn"
-"wad" "D:/quake-leveldesign-starterkit-1.17.0/quakedev/wads/deadmeat.wad;D:/quake-leveldesign-starterkit-1.17.0/quakedev/wads/decon.wad;D:/quake-leveldesign-starterkit-1.17.0/quakedev/wads/Doom3_base_wall.wad;D:/quake-leveldesign-starterkit-1.17.0/quakedev/wads/Doom3_washroom.wad;D:/quake-leveldesign-starterkit-1.17.0/quakedev/wads/Doom3_alphalabs.wad;D:/quake-leveldesign-starterkit-1.17.0/quakedev/wads/Doom3_enpro.wad;D:/quake-leveldesign-starterkit-1.17.0/quakedev/wads/Doom3_caves.wad;D:/quake-leveldesign-starterkit-1.17.0/quakedev/wads/ikwhite.wad;D:/quake-leveldesign-starterkit-1.17.0/quakedev/wads/MEDIEVAL.WAD"
+"wad" "C:/Users/legoc/Downloads/Restaurant.wad"
 "health" "5"
 "property 1" ""
 // brush 0
